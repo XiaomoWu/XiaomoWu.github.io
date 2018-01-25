@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_drafts",
-    "\\_posts\\blog"
+    "\\portfolio",
+    "\\pwa\\icons",
+    "\\_posts",
+    "\\_posts\\course",
+    "\\_site",
+    "\\_site\\tags"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\_posts\\course\\2018-01-26-Hadley-1.md",
   "PreviewInSolutionExplorer": false
 }
