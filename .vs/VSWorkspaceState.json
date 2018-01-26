@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\img",
     "\\portfolio",
-    "\\pwa\\icons",
+    "\\_drafts",
+    "\\_layouts",
     "\\_posts",
-    "\\_posts\\course",
-    "\\_site",
-    "\\_site\\tags"
+    "\\_posts\\course"
   ],
-  "SelectedNode": "\\_posts\\course\\2018-01-26-Hadley-1.md",
+  "SelectedNode": "\\_posts\\course\\2018-01-25-encoding-1.md",
   "PreviewInSolutionExplorer": false
 }
